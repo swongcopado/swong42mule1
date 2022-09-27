@@ -48,5 +48,5 @@ target/
 velocity.log
 
 # ---------------- #
-.copado
+.copado/**
 # ---------------- #
