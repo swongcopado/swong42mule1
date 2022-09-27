@@ -9,6 +9,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	</http:listener-config>
 	<flow name="swong42mule1Flow" doc:id="6a83a8f4-fc7b-44d4-9434-632dfd9ef568" >
 		<http:listener doc:name="Listener" doc:id="abce5412-304a-4609-ba4e-e4095a4dd9f1" config-ref="HTTP_Listener_config" path="/hello"/>
-		<set-payload value="hello mulesoft" doc:name="Set Payload" doc:id="a0f1687d-c75e-4a16-83ab-b9e257eb40d5" />
+		<set-payload value="hello mulesoft, meet copado" doc:name="Set Payload" doc:id="a0f1687d-c75e-4a16-83ab-b9e257eb40d5" />
 	</flow>
 </mule>
