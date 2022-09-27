@@ -1,0 +1,7 @@
+dummy.txt
+exchange-docs
+mule-artifact.json
+pom.xml
+README.md
+src
+target

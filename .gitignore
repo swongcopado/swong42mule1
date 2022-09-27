@@ -47,4 +47,6 @@ target/
 .DS_Store
 velocity.log
 
+# ---------------- #
 .copado/**
+# ---------------- #
